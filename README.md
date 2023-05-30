@@ -1,11 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Josué Júnior</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JosueJunior01&color=yellow" alt="Profile views" /> </p>
 
-<p align="left">
-<img width="477em" src="https://github-readme-stats.vercel.app/api?username=JosueJunior01&show_icons=true&theme=vision-friendly-dark" alt="josuejunior01 stats"/>
-<img width="477em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueJunior01&layout=compact&theme=vision-friendly-dark" alt="josuejunior01 most languages"/>
-</p>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="junior-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <!--
