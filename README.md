@@ -1,5 +1,8 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Josué Júnior</h1>
+
+<!-- 
 <h2 align="left">PORTFÓLIO: https://josuejunior01.github.io/Meu_Portfolio/ </h2>
+-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JosueJunior01&color=yellow" alt="Profile views" /> </p>
 
 <div style="display: inline_block"><br>
