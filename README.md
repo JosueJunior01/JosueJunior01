@@ -16,6 +16,7 @@
  <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/144/000000/python--v1.png" alt="Python" width="50" height="50"/> </a>
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/144/000000/html-5--v1.png" alt="Html5" width="50" height="50"/> </a> 
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/150/000000/css3.png" alt="Css" width="50" height="50"/> </a> 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/144/000000/javascript--v1.png" alt="javascript" width="50" height="50"/> </a> 
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/144/000000/javascript--v1.png" alt="javascript" width="50" height="50"/> </a>
+ <a href="https://www.php.net" target="_blank"> <img src="https://img.icons8.com/color/144/000000/php.png" alt="php" width="50" height="50"/> </a>
  <a href="https://www.cplusplus.com/doc/tutorial/" target="_blank"> <img src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png" alt="C++" width="50" height="50"/> </a> 
  <a href="https://www.programiz.com/c-programming" target="_blank"> <img src="https://img.icons8.com/color/144/000000/c-programming.png" alt="mysql" width="50" height="50"/> </a> 
